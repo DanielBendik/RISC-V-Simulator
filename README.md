@@ -1,6 +1,6 @@
 # RISC-V-Simulator
 
-Usage : rv32i [-d] [ -i] [-r] [- z] [-l exec - limit ] [-m hex - mem - size ] infile  
+Usage : ./rv32i [-d] [ -i] [-r] [- z] [-l exec - limit ] [-m hex - mem - size ] infile  
 -d show disassembly before program execution  
 -i show instruction printing during execution  
 -l maximum number of instructions to exec  
